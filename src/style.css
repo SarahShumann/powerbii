@@ -1,0 +1,11 @@
+h1,
+p {
+  font-family: Lato;
+}
+.report-style-class {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
